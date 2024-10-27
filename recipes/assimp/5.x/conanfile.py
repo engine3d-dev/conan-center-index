@@ -13,6 +13,7 @@ required_conan_version = ">=1.54.0"
 
 class AssimpConan(ConanFile):
     name = "assimp"
+    version = "1.0"
     url = "https://github.com/engine3d-dev/conan-center-index"
     homepage = "https://github.com/engine3d-dev/assimp"
     description = (
