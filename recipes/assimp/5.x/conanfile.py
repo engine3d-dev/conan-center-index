@@ -13,8 +13,8 @@ required_conan_version = ">=1.54.0"
 
 class AssimpConan(ConanFile):
     name = "assimp"
-    url = "https://github.com/conan-io/conan-center-index"
-    homepage = "https://github.com/assimp/assimp"
+    url = "https://github.com/engine3d-dev/conan-center-index"
+    homepage = "https://github.com/engine3d-dev/assimp"
     description = (
         "A library to import and export various 3d-model-formats including "
         "scene-post-processing to generate missing render data."
